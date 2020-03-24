@@ -1,0 +1,5 @@
+com\tourOfHero\controller\IndexController.class
+com\tourOfHero\entities\Hero.class
+com\tourOfHero\repository\HeroRepository.class
+com\tourOfHero\controller\HeroController.class
+com\tourOfHero\TourOfHeroApplication.class
